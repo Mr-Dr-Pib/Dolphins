@@ -20,6 +20,18 @@
     background-color: #006060;
 }
 
+.tdmmc-page {
+    margin-top: 60px;
+}
+
+.placeholder-card {
+    width: 225px;
+    height: 315px;
+    background: #f76f00 linear-gradient(#F76F00, #000 65%, #183048);
+    box-shadow: 0 0 5px #000;
+    opacity: .8;
+}
+
 footer ul {
     padding-left: 0;
 }
